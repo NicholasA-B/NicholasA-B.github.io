@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "6d3bda5345e203d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "11e4a72fb9e67ea5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf82485365fba446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-01-18-Cloud-Exploit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-18-Cloud-Exploit"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b791848657c8fa0",
+    "type": "split",
+    "children": [
+      {
+        "id": "edd3e70a3da1ed70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eaef709e527f023",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ac488ca34bb73579",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cb10eb76ba6b58a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32b9aa8018fe64cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fe8a8e04637bec8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80a55d6fb96a100d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2025-01-18-Cloud-Exploit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-01-18-Cloud-Exploit"
+            }
+          },
+          {
+            "id": "6e909cb528ead2d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2025-01-18-Cloud-Exploit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-01-18-Cloud-Exploit"
+            }
+          },
+          {
+            "id": "287166829323c63a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9e2ebc77f0820487",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2025-01-18-Cloud-Exploit.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-01-18-Cloud-Exploit"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bf82485365fba446",
+  "lastOpenFiles": [
+    "assets/Images/Pasted image 20250119104050.png",
+    "assets/Images/Pasted image 20250119104036.png",
+    "assets/Images/Pasted image 20250119103924.png",
+    "assets/Images/Pasted image 20250119103913.png",
+    "assets/Images/Pasted image 20250119103805.png"
+  ]
+}
